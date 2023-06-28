@@ -1,3 +1,3 @@
 ### Entity Relationship Diagram
-![ER Diagram](./public/images/ERD.jpeg)
+![ER Diagram](./client/public/ERD.jpeg)
 
